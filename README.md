@@ -7,7 +7,7 @@ Sou o **Heitor**, um estudante apaixonado por **Administração** e **Análise e
 ### 🚀 Sobre mim:
 - 🌱 Atualmente estudando **Administração** e **Análise e Desenvolvimento de Sistemas**.
 - 💼 Trabalhando como **estagiário na Caesb**, melhorando processos e eficiência.
-- 🏆 **Coordenador da Atlética Cybernetica do CEUB**, liderando projetos e eventos para integração e crescimento dos alunos.
+- 🏆 **Coordenador da Atlética Cybernética do CEUB**, liderando projetos e eventos para integração e crescimento dos alunos.
 - 🛠️ Gosto de resolver problemas do mundo real através de **código** e **inovação**.
 - 🤝 Aberto a **colaborações** em projetos e ideias interessantes.
 
