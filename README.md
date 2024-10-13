@@ -6,7 +6,8 @@ Sou o **Heitor**, um estudante apaixonado por **Administração** e **Análise e
 
 ### 🚀 Sobre mim:
 - 🌱 Atualmente estudando **Administração** e **Análise e Desenvolvimento de Sistemas**.
-- 💼 Trabalhando como **estagiário** na Caesb, melhorando processos e eficiência.
+- 💼 Trabalhando como **estagiário na Caesb**, melhorando processos e eficiência.
+- 🏆 **Coordenador da Atlética Cybernetica do CEUB**, liderando projetos e eventos para integração e crescimento dos alunos.
 - 🛠️ Gosto de resolver problemas do mundo real através de **código** e **inovação**.
 - 🤝 Aberto a **colaborações** em projetos e ideias interessantes.
 
@@ -15,7 +16,6 @@ Sou o **Heitor**, um estudante apaixonado por **Administração** e **Análise e
 - 💻 **Programação**: Java
 - 🐧 **Linux**: Experiência com ferramentas e sistemas **open-source**.
 - 🔧 **Ferramentas**: VS Code, Excel, PowerPoint
-
 
 ### 🌐 Conecte-se comigo:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Heitor%20Leal-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/heitorlealdemedeiros/)
