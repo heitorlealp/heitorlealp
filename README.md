@@ -1,17 +1,21 @@
-## Hi there 👋
+# 💻 Heitor Leal
 
-- [ ] fazer o portifólio
-<!--
-**heitorlealp/heitorlealp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋 Olá! Bem-vindo ao meu GitHub!
 
-Here are some ideas to get you started:
+Sou o **Heitor**, um estudante apaixonado por **Administração** e **Análise e Desenvolvimento de Sistemas** 🎓. Adoro mergulhar no mundo da tecnologia, criar projetos e aprender algo novo todos os dias. Aqui você encontrará uma mistura do meu trabalho, estudos e projetos paralelos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre mim:
+- 🌱 Atualmente estudando **Administração** e **Análise e Desenvolvimento de Sistemas**.
+- 💼 Trabalhando como **estagiário** na Caesb, melhorando processos e eficiência.
+- 🛠️ Gosto de resolver problemas do mundo real através de **código** e **inovação**.
+- 🤝 Aberto a **colaborações** em projetos e ideias interessantes.
+
+### 💡 Minhas Habilidades:
+- 📊 **Administração**: Gestão de processos, otimização e habilidades organizacionais.
+- 💻 **Programação**: Java
+- 🐧 **Linux**: Experiência com ferramentas e sistemas **open-source**.
+- 🔧 **Ferramentas**: VS Code, Excel, PowerPoint
+
+
+### 🌐 Conecte-se comigo:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Heitor%20Leal-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/heitorlealdemedeiros/)
